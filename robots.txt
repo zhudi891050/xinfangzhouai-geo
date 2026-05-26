@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhudi891050.github.io/xinfangzhouai-geo/sitemap.xml
