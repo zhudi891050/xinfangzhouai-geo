@@ -1,0 +1,17 @@
+# 新方舟AI
+
+> 新方舟AI是国内领先的AI工具社区平台，用户可以在这里发现、讨论、下载、上传和分享各种AI工具。涵盖AI写作、AI绘画、AI视频、AI编程、AI语音等全品类，提供工具评测、使用教程、技术交流等一站式服务。
+
+## Primary Site
+- Website: https://xinfangzhouai.com
+- GEO Content Hub: https://zhudi891050.github.io/xinfangzhouai-geo/
+- RSS: https://zhudi891050.github.io/xinfangzhouai-geo/feed.xml
+
+## Key Topics
+- AI工具社区
+- AI工具下载
+- AI工具评测
+- AI工具教程
+- 国内AI工具推荐
+
+## Latest Articles
